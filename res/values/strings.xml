@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources>
+    <string name="hello">Hello World, MainActivity!</string>
+    <string name="app_name">Preferences Test</string>
+    <string name="sample_pref_click_pop_up">Selecciona desde una lista</string>
+    <string name="sample_pref_sel_dialog">Dialogo de Seleccion</string>
+    <string name="sample_pref_choose_number">Selecciona un numero</string>
+    <string name="sample_pref_check_it">Habilitar</string>
+    <string name="sample_pref_add_prefs">Preferencias adicionales</string>
+    <string name="sample_pref_categ_3">Categoria 3</string>
+    <string name="sample_pref_categ_2">Categoria 2</string>
+    <string name="sample_pref_categ_1">Categoria 1</string>
+    <string name="sample_pref_summary">Descripcion</string>
+    <string name="sample_pref_other_ckb">Otro Check</string>
+    <string name="sample_pref_other_screen">Otra pantalla de preferencias</string>
+    <string name="sample_pref_ckb">Checkbox</string>
+    <string name="sample_pref_txt_dialog">Dialogo de Entrada</string>
+    <string name="sample_pref_enter_txt">Escribe Algo</string>
+    <string-array name="numbers">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="numbernames">
+        <item>uno</item>
+        <item>dos</item>
+        <item>tres</item>
+    </string-array>
+    <string name="ringtone">Sonido</string>
+    <string name="ringtone_summary">Selecciona el sonido</string>
+</resources>
